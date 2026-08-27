@@ -1,0 +1,17 @@
+[
+    {
+        "title": "lunch",
+        "amount": 850.0,
+        "category": "food"
+    },
+    {
+        "title": "bus ",
+        "amount": 200.0,
+        "category": "transport"
+    },
+    {
+        "title": "soap",
+        "amount": 250.0,
+        "category": "bath"
+    }
+]
